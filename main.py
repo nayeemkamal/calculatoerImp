@@ -10,4 +10,4 @@ def inc(x_value):
 def test_answer():
     """Testing the inc function to increment x value by one"""
 
-    assert inc(3) == 4
+    assert inc(4) == 5
